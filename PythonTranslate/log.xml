@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="34900">
+<author>aibo</author>
+<date>2015-05-05T06:50:33.879304Z</date>
+<paths>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/res/ui/peri.png</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/config/sprite_plist/peri_plist.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/browse/browse_data.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/common/color_def.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/fairysword/fairysword_ctrl.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/guide/guide_config.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/guide/task_guide.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/mainui/mainui_data.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/other/other_ctrl.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/peri/peri_ctrl.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/peri/peri_data.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/runtime/assets/scripts/game/peri/peri_halo.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/runtime/assets/scripts/game/peri/peri_halo_sec.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/peri/peri_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/scene/scene.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/scene/scene_config.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/scene/scene_protocal.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/scene/sceneobj/peri_obj.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/scene/sceneobj/role.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/act_iwg_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/act_subview_ui/act_goldingot_view_ui.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/sharedata/game_vo.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/task/task_controller.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/wing/wing_fazhen.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/gameui/common/common_display.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/gameui/ui_config/peri_ui_cfg.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/gameui/ui_widgets/ui_alert.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/language/language.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/protocolcommon/userprotocol/protocol_011.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/protocolcommon/userprotocol/protocol_014.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/protocolcommon/userprotocol/protocol_022.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_fla/act_iwantgold.fla</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_fla/peri.fla</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/peri/peri_halo_1.png</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/peri/peri_halo_2.png</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/peri/peri_halo_3.png</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/peri/peri_halo_4.png</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/peri/peri_halo_5.png</path>
+</paths>
+<msg>仙女光环</msg>
+</logentry>
+<logentry
+   revision="34901">
+<author>yangke</author>
+<date>2015-05-05T06:51:08.420073Z</date>
+<paths>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_res/mainui/btn_fazhen.png</path>
+</paths>
+<msg>修改图标</msg>
+</logentry>
+<logentry
+   revision="34923">
+<author>aibo</author>
+<date>2015-05-05T09:09:04.937072Z</date>
+<paths>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/res/ui/peri.png</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/res/ui/word.png</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/config/sprite_plist/peri_plist.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/config/sprite_plist/word_plist.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/actroller/act_roller_cfg.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/actroller/act_roller_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/common/color_def.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/peri/peri_ctrl.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/peri/peri_data.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/peri/peri_halo.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/peri/peri_halo_sec.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/peri/peri_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/gameui/ui_config/peri_ui_cfg.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/gameui/ui_widgets/ui_richtext_util.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/protocolcommon/userprotocol/protocol_022.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_fla/act_roller.fla</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_fla/peri.fla</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/peri/peri_halo_btn.png</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/word/peri_halo.png</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/word/t_peri_halo.png</path>
+</paths>
+<msg>仙女光环</msg>
+</logentry>
+<logentry
+   revision="35034">
+<author>lian</author>
+<date>2015-05-06T01:22:11.180628Z</date>
+<paths>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/config/config.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/actroller/act_roller_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/arespalace/arespalace_finish_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/arespalace/arespalace_title_tips.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/arespalace/arespalace_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/common/game_enum.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/recharge/recharge_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/remind/remind_cfg.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/runtime/assets/scripts/game/serveractivity/act_combine_data.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/act_subview/act_buttonreward_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/act_subview/act_fcdescbutton_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/act_subview/act_hotsell_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/act_subview/act_investplan_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/act_subview/act_pictruereward_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/runtime/assets/scripts/game/serveractivity/act_subview/act_qianggou_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/act_subview/act_rewardlist_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/act_subview/act_rewardranklist_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/runtime/assets/scripts/game/serveractivity/act_subview/act_zhengba_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/runtime/assets/scripts/game/serveractivity/act_subview/act_zhuanpan_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/act_subview/activity_require_list.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/runtime/assets/scripts/game/serveractivity/act_subview_ui/act_qianggou_view_ui.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/runtime/assets/scripts/game/serveractivity/act_subview_ui/act_zhengba_view_ui.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/runtime/assets/scripts/game/serveractivity/act_subview_ui/act_zhuanpan_view_ui.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/serveractivity_ctrl.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/serveractivity_data.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/serveractivity_ui_cfg.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/serveractivity_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/time/time_ctrl.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/wing/wing_fazhen.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/language/language.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/protocolcommon/userprotocol/protocol_022.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/protocolcommon/userprotocol/protocol_027.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/protocolcommon/userprotocol/protocol_090.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_fla/server_activity.fla</path>
+</paths>
+<msg>提交合服活动的代码，5.5投资计划修改</msg>
+</logentry>
+<logentry
+   revision="35109">
+<author>aibo</author>
+<date>2015-05-06T07:31:44.225322Z</date>
+<paths>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/res/ui/peri.png</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/common/game_enum.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/gameui/ui_widgets/ui_richtext_util.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_res/peri/peri_halo_1.png</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_res/peri/peri_halo_2.png</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_res/peri/peri_halo_3.png</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_res/peri/peri_halo_4.png</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_res/peri/peri_halo_5.png</path>
+</paths>
+<msg>仙女光环</msg>
+</logentry>
+<logentry
+   revision="35127">
+<author>yzh</author>
+<date>2015-05-06T09:18:10.224521Z</date>
+<paths>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/res/ui/recharge.png</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/config/sprite_plist/recharge_plist.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/recharge/recharge_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/gameui/ui_config/common_ui_cfg.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/gameui/ui_widgets/ui_alert_recharge.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/language/language.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_fla/dialog.fla</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/recharge/recharge_double.png</path>
+</paths>
+<msg>充值活动开启双倍时增加双倍标签</msg>
+</logentry>
+<logentry
+   revision="35141">
+<author>lian</author>
+<date>2015-05-06T10:04:47.720504Z</date>
+<paths>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/privilege_ui.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/privilege_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_fla/server_activity.fla</path>
+</paths>
+<msg>修复反馈</msg>
+</logentry>
+<logentry
+   revision="35178">
+<author>yk</author>
+<date>2015-05-06T13:25:05.095546Z</date>
+<paths>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_res/openserver/yueka_word.png</path>
+</paths>
+<msg>更新
+</msg>
+</logentry>
+<logentry
+   revision="35219">
+<author>lian</author>
+<date>2015-05-07T07:00:07.380984Z</date>
+<paths>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/common/game_enum.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/role/item_data.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/act_combine_data.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/act_subview/act_qianggou_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/act_subview/act_zhuanpan_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/act_subview_ui/act_qianggou_view_ui.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/serveractivity_data.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_fla/server_activity.fla</path>
+</paths>
+<msg>修复反馈</msg>
+</logentry>
+<logentry
+   revision="35235">
+<author>aibo</author>
+<date>2015-05-07T08:31:50.461212Z</date>
+<paths>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/config/sprite_plist/supergift_plist.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_res/supergift/img_pagedec_3.png</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_res/supergift/img_pagedec_4.png</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_res/supergift/img_pagedec_5.png</path>
+</paths>
+<msg>累充</msg>
+</logentry>
+<logentry
+   revision="35236">
+<author>yk</author>
+<date>2015-05-07T08:36:10.400497Z</date>
+<paths>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_res/supergift/img_pagedec_5.png</path>
+</paths>
+<msg>更新
+</msg>
+</logentry>
+<logentry
+   revision="35267">
+<author>lian</author>
+<date>2015-05-07T11:33:24.211364Z</date>
+<paths>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/res/ui/openserver.png</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/config/sprite_plist/openserver_plist.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/act_combine_data.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/act_subview/act_zhengba_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/act_subview_ui/act_zhengba_view_ui.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/serveractivity_data.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/gameui/ui_widgets/ui_richtext_util.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/protocolcommon/userprotocol/protocol_022.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/protocolcommon/userprotocol/protocol_070.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/protocolcommon/userprotocol/protocol_090.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_fla/server_activity.fla</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/openserver/duo_chengzhu2.png</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/openserver/duo_chengzhu3.png</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/openserver/duo_mengzhu2.png</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/openserver/duo_mengzhu3.png</path>
+</paths>
+<msg>提交合服活动的代码</msg>
+</logentry>
+<logentry
+   revision="35291">
+<author>lian</author>
+<date>2015-05-08T02:39:56.920482Z</date>
+<paths>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/act_subview_ui/act_zhengba_view_ui.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_fla/server_activity.fla</path>
+</paths>
+<msg>提交合服活动的代码</msg>
+</logentry>
+<logentry
+   revision="35328">
+<author>lian</author>
+<date>2015-05-09T04:15:30.162231Z</date>
+<paths>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/res/ui/role_create.png</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/config/sprite_plist/role_create_plist.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/runtime/assets/scripts/game/login/combine_select_role.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/login/login_cfg.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/login/login_controller.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/serveractivity_data.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/language/language.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/protocolcommon/userprotocol/protocol_070.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/protocolcommon/userprotocol/protocol_090.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_fla/role_create.fla</path>
+</paths>
+<msg>提交合服选角色界面代码</msg>
+</logentry>
+<logentry
+   revision="35380">
+<author>lian</author>
+<date>2015-05-11T07:26:27.260500Z</date>
+<paths>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/res/ui/role_create.png</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/config/sprite_plist/role_create_plist.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/login/login_cfg.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_fla/role_create.fla</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/role_create/role_select_board.png</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/role_create/role_select_effect.png</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/role_create/role_selet_stone.png</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/role_create/title2.png</path>
+</paths>
+<msg>合服选角色界面修改</msg>
+</logentry>
+<logentry
+   revision="35397">
+<author>lian</author>
+<date>2015-05-11T09:13:56.744659Z</date>
+<paths>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/res/ui/role_create.png</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/config/sprite_plist/role_create_plist.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/login/combine_select_role.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/login/login_cfg.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/gameui/ui_widgets/ui_base_item_render.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_fla/role_create.fla</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_res/role_create/title.png</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_res/role_create/title2.png</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_res/role_create/title_bg.png</path>
+</paths>
+<msg>合服选角色界面修改</msg>
+</logentry>
+<logentry
+   revision="35440">
+<author>aibo</author>
+<date>2015-05-12T02:04:56.215591Z</date>
+<paths>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/browse/browse_data.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/chat/chat_data.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/common/common_struct.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/common/game_enum.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/equipment/equipment_ctrl.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/equipment/equipment_data.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/equipment/equipment_shenzhu.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/equipment/equipment_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/guide/guide_config.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/remind/remind_cfg.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/remind/remind_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/role/equip_data.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/role/item_data.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/tip/display_item_tip.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/tip/item_tip.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/gameui/ui_config/equipment_ui_cfg.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/gameui/ui_widgets/ui_money_bar.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/gameui/ui_widgets/ui_richtext_util.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/language/language.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/protocolcommon/protocol_struct.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/protocolcommon/userprotocol/protocol_014.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/protocolcommon/userprotocol/protocol_017.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_fla/equipment.fla</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_fla/peri.fla</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_fla/siegecraft.fla</path>
+</paths>
+<msg>附灵</msg>
+</logentry>
+<logentry
+   revision="35473">
+<author>huangxuzhao</author>
+<date>2015-05-12T07:14:33.468995Z</date>
+<paths>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/item/27270.png</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/item/27271.png</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/item/27272.png</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/item/27273.png</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/item/27274.png</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/item/27275.png</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/item/27276.png</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/item/27277.png</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/item/27278.png</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/item/27279.png</path>
+</paths>
+<msg>提交资源</msg>
+</logentry>
+<logentry
+   revision="35480">
+<author>aibo</author>
+<date>2015-05-12T07:39:52.957752Z</date>
+<paths>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/res/ui/openserver.png</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/config/sprite_plist/openserver_plist.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/equipment/equipment_shenzhu.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/role/equip_data.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/tip/item_tip.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/gameui/ui_config/equipment_ui_cfg.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/gameui/ui_widgets/ui_base_cell.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/language/language.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_fla/equipment.fla</path>
+</paths>
+<msg>附灵</msg>
+</logentry>
+<logentry
+   revision="35481">
+<author>aibo</author>
+<date>2015-05-12T08:00:24.871627Z</date>
+<paths>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/act_subview/act_monthcard_view.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/runtime/assets/scripts/game/serveractivity/act_subview_ui/act_monthcard_view_ui.lua</path>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/client-ccs/tools/uieditor/ui_fla/server_activity.fla</path>
+<path
+   prop-mods="true"
+   text-mods="true"
+   kind="file"
+   action="A">/client-ccs/tools/uieditor/ui_res/openserver/yueka_word_ios.png</path>
+</paths>
+<msg>ioc月卡奖励区分</msg>
+</logentry>
+</log>
